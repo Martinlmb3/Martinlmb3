@@ -1,6 +1,6 @@
 # Hello I'm Martin
-## Junior Full Stack Developer
-I'm a passionate junior full stack developer on a continuous learning journey.
+
+## I'm a passionate junior full stack developer on a continuous learning journey.
 
 ### 💻 Tech Stack
 
