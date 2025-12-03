@@ -24,5 +24,5 @@ I'm a passionate junior full stack developer on a continuous learning journey.
 - Enhancing UI/UX implementation skills
 
   ### 📫 How to Reach Me
-  - Portfolio: [My Portfolio Website](https://my-portfolio-steel-pi-37.vercel.app)
+- Portfolio: [My Portfolio Website](https://my-portfolio-steel-pi-37.vercel.app)
   
